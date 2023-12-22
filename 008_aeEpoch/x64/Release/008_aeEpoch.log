@@ -1,0 +1,5 @@
+﻿  008_aeEpoch.cpp
+C:\CODES\C_Codes\001_Threads\008_aeEpoch\008_aeEpoch.cpp(12,26): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+  ae_epoch.cpp
+ae_epoch.obj : error LNK2005: "unsigned short * month" (?month@@3PAGA) already defined in 008_aeEpoch.obj
+C:\CODES\C_Codes\001_Threads\x64\Release\008_aeEpoch.exe : fatal error LNK1169: one or more multiply defined symbols found
